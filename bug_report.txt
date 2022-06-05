@@ -1,5 +1,7 @@
-Description: Check the navigation to the pages of the site from the 'Меню' page.
-Preconditions: go to Open https://www.it-academy.by/.
+ummary: "didn't open 'IT Practice Lab' page",
+	Priority: "medium",
+        Severity: "major",
+        Enviroment: "Windows 10, Google Cgrome 100",
 Steps to reproduce: 
 		step 1: Click on Hamburger menu icon in the top navigation menu,
 		step 2: Click on 'Обучение' link,
@@ -11,4 +13,4 @@ Expected_results:
 		step 3: Opened 'IT Practice Lab' page
 	
 Actual_result: didn't open 'IT Practice Lab' page.
-
+Status: "open"
