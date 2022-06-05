@@ -1,1 +1,14 @@
+Description: Check the navigation to the pages of the site from the 'Меню' page.
+Preconditions: go to Open https://www.it-academy.by/.
+Steps to reproduce: 
+		step 1: Click on Hamburger menu icon in the top navigation menu,
+		step 2: Click on 'Обучение' link,
+		step 3: Click on 'IT Practice Lab' link
+	
+Expected_results: 
+		step 1: Opened Hamburger menu page,
+		step 2: Opened 'Обучение' page,
+		step 3: Opened 'IT Practice Lab' page
+	
+Actual_result: didn't open 'IT Practice Lab' page.
 
