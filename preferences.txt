@@ -1,0 +1,5 @@
+fav_movie "la la lend",
+fav_TVSHOW "Friends",
+fav_food "fish",
+fav_season "Spring",
+country_to_visit "Canada".

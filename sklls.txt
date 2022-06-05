@@ -1,0 +1,12 @@
+skill_1 "QA_Theory",
+skill_2 "GIT BUSH",
+skill_3 "GIT HUB",
+skill_4 "HTTP",
+skill_5 "JSON",
+skill_6 "XML",
+skill_7 "API",
+skill_8 "traffic sniffing",
+skill_9 "XCODE",
+skill_10 "Android Studio",
+skill_11 "SQL".
+
