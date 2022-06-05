@@ -1,0 +1,8 @@
+NSP:
+name "Liza",
+surname "Alikritskikh",
+Patronymic "Gennadievna",
+age "30",
+pets "1",
+desired_salary "5000".
+
